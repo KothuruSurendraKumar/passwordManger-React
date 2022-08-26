@@ -1,0 +1,104 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+.side {
+  display: flex;
+}
+.lists-container {
+  border: 1px solid #b6c3ca;
+
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+  list-style-type: none;
+  width: 210px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 5px;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  flex-direction: column;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+.website {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin: 2px;
+  padding-top: 4px;
+}
+.website1 {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin: 2px;
+  padding-top: 8px;
+}
+.initial-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 16px;
+  margin-top: 45px;
+  margin-right: 10px;
+  flex-shrink: 0;
+}
+.initial {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin: 0;
+}
+.delete {
+  height: 20px;
+  width: 20px;
+}
+.button1 {
+  background-color: transparent;
+  color: #7e858e;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.stars {
+  height: 30px;
+  width: 100px;
+}
